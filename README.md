@@ -1,5 +1,5 @@
 # Réponses module Méveloppement Durable
-Ya pas forcément toutes les réponses, mais voilà
+Ya pas forcément toutes les réponses, mais voilà  
 Juste `Ctrl + F` pour naviguer ca devrait suffire
 
 # Axe 1
@@ -92,6 +92,64 @@ Le dernier rapport du GIEC (2021) met en avant une augmentation significative de
 
 Les activités agricoles et forestières (nommées AFOLU dans le jargon énergétique) contribuent aux émissions de gaz à effet de serre
 - Vrai 
+
+# Axe 2
+Le système le plus utilisé pour classer le risque d’extinction d’une espèce est celui :
+- De l'Union Internationale pour la Conservation de la Nature (UICN)
+
+Une succession végétale progressive fait référence (1 réponse possible) :
+- Aux différentes stades d’évolution d’un écosystème initial vers un écosystème final/terminal
+
+Quelles espèces fruitières emblématiques de la région auvergne sont conservées sur le Campus des Cézeaux?
+- des amandiers
+- des abricotiers
+
+L’anthropocène :
+- Est une époque de l'histoire de la Terre au cours de laquelle les activités humaines ont un impact significatif et global sur le système planétaire
+
+La diversité spécifique de l’échantillon A est supérieure à celle de l’échantillon B
+- Vrai
+
+Sur quels objectifs sont fondés la stratégie européenne et la stratégie nationale française pour la biodiversité?
+- les objectifs d’Aichi
+
+Les activités humaines peuvent exercer des pressions de sélection sur les populations sauvages, un processus que l’on nomme « Evolution contemporaine » :
+- Vrai
+
+Le parc naturel régional le plus proche de Clermont-Ferrand est celui des?
+- Volcans d’Auvergne
+
+Laquelle de ces catégories n’est pas un service écosystèmique ? (1 réponse possible)
+- Les services de reproduction
+
+Sélectionnez la phrase juste :
+- Le stade du climax est le stade terminal d’une succession végétale
+
+Un écosystème assure une seule fonction écologique
+- Faux
+
+Complétez la phrase suivante :  
+Au cours d'un succession végétale progressive, la biodiversité **augmente**, la complexité des réseaux trophiques **augmente**, la lumière et le vent **diminue**.
+
+Parmi les écosystèmes suivants, lesquels peuvent être qualifiés d’écosystèmes aquatiques lotiques (2 réponses possibles) ?
+- Ruisseau
+- Rivière
+
+Les Etats-Unis ont ratifié la Convention sur la Diversité Biologique :
+- Faux
+
+L'Union internationale pour la conservation de la nature (UICN) est une organisation internationale non gouvernementale.
+- Vrai
+
+Les organismes suivants forment-ils une chaîne alimentaire : l’ortie, le saule blanc, le renard, le loup, le lombric ?
+- Faux
+
+Le Biotope d’un écosystème représente (1 réponse possible) :
+- L’ensemble des conditions physico-chimiques de l'écosystème
+
+Le plan national pollinisateurs vise à favoriser la protection et réduire le déclin des populations de:
+- insectes
+
 
 
 
